@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Logs
+*.log
