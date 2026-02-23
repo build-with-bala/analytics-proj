@@ -4,7 +4,6 @@
 # OS / Editor
 .DS_Store
 .idea/
-.vscode/
 
 # Python
 __pycache__/
@@ -13,3 +12,4 @@ __pycache__/
 
 # Logs
 *.log
+.gitignore
